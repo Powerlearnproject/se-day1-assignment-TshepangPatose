@@ -46,14 +46,43 @@ Agile- Creating mobile games, e-commerce website
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
 
+Software developer- Writes code and implement software solutions
+Quality assurance engineer- Responsible the quality of the software by making design and executing test plans.
+Project manager- Responsible for planning, execution and delivery of the software projects.
+
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
 
+**IDE**
+-Offers auto suggestions and highlights the syntax in the code to speed up the process.
+- Has built in debuggers foe error fixing
+  e.g VS Code
+**VCS**
+-Ensures collaboration of teams by allowing them to work on the same project.
+-Backs up code in remote repositories
+ e.g Git
 
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
 
+-Requirements change
+-Technical dept
+-Tight deadlines
+
+Strategies: Effective communication, agile methodologies, prioritising tasks
 
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
+
+Unit testing: Testing of individual components of the software application separately to check their functionality.
+Importance: Reduces bugs that might occur and be difficult to fix at a later stage.
+
+Integration testing: Testing of different modules/services in an application to check if they work correctly when integrated/combined.
+Importance: Ensures seamless integration of combined modules.
+
+System testing: Testing the entire software application to check if it's functional and meets the performance requirements.
+Importance: Ensures the correct functionality of the entire system before being deployed.
+
+Acceptance: Determines if the software application meets the client/user requirements before the final release.
+Importance: Validation of the system before deployment
 
 
 #Part 2: Introduction to AI and Prompt Engineering
@@ -61,5 +90,15 @@ Explain the different types of testing (unit, integration, system, and acceptanc
 
 Define prompt engineering and discuss its importance in interacting with AI models.
 
+Prompt engineering: Crafting questions/statements to get the best possible responses from AI models.
+Importance: Helps clarifying questions asked so that the AI understands what one needs.
+
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+
+**Vague prompt**
+"Write about health."
+**Improved prompt**
+"Writes an essay of 250 words about the importance of health of infants and things to be avoided, and explain their dangers"
+**Why the improved prompt is more effective**
+Scope, length of words and has specific aspects.
